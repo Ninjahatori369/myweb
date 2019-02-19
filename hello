@@ -2,6 +2,9 @@ This is first edit file - edit
 one
 two - edit
 three
-four
+four -delete 
 five - added
 This is end line
+
+new section
+end section
